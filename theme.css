@@ -2903,11 +2903,11 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 /* Here is the font change */
 @font-face {
     font-family: "JetBrainMonoNerdFont-Regular";
-    src: url("https://github.com/sch-le/KanagawaGTK-for-discord-JetBrainsMonoNL-Nerd-Font/raw/refs/heads/main/JetBrainsMonoNerdFont-Regular.ttf");
+    src: url("https://raw.githubusercontent.com/sch-le/KanagawaGTK-for-discord-JetBrainsMonoNL-Nerd-Font/refs/heads/main/JetBrainsMonoNerdFont-Regular.ttf");
 }
 @font-face {
     font-family: "JetBrainMonoNerdFontMono-Regular";
-    src: url("https://github.com/sch-le/KanagawaGTK-for-discord-JetBrainsMonoNL-Nerd-Font/raw/refs/heads/main/JetBrainsMonoNerdFontMono-Regular.ttf");
+    src: url("https://raw.githubusercontent.com/sch-le/KanagawaGTK-for-discord-JetBrainsMonoNL-Nerd-Font/refs/heads/main/JetBrainsMonoNerdFonMono-Regular.ttf");
 }
 
 :root {
